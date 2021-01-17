@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (min-width: 700px) {
+hr{border:2px solid;border-color:#C03;}
+
+/* Page title class*/
+.title{
+	color:white;text-align:center;font-size:25px;padding:60px;height:150px;font-style:oblique;
+}
+.division{
+	width:100%;height:450px;background-color:#fff;display:flex;
+}
+.mainDiv2{ /*Main Div*/
+	width:550px;height:450px;background-color:#9CC;margin-left:50px;margin-right:50px;	
+}
+.mainDiv1{ /*Main Div*/
+	width:550px;height:450px;background-color:black;margin-left:100px;border:10px thick;border-color:#F90;	
+}
+.mDivOne{height:10%;background-color:#EAE8E8;}/*Main Div 1st Part*/
+h4{font-size:24px;color:#C03;}
+.mDivTwo{height:60%;background-color:#0FC;display:flex;} /*Main Div 2nd Part*/
+/*Further 2 parts of 2nd Div*/
+.divOne{ /*2nd Div 1st Part*/width:65%;background-color:#099;}
+.divTwo{ /*2nd Div 2nd Part*/width:35%;background-color:#EAE8E8;}
+h5{font-size:22px;Margin:5px}
+p{font-size:15px;padding:0px;margin-left:5px;margin-top:0px;}
+.mdivThree{height:30%;background-color:#EAE8E8;display:flex;} /*Main Div 3rd Part*/
+/*Further 2 parts of 3rd part*/
+
+.TDivOne{ /*3rd Div 1st Part*/width:65%;background-color:#EAE8E8;display:flex;}
+/* further 3 divs of same style */
+.subClass{margin-top:10px;margin-left:30px;width:150px;background-color:#EAE8E8;text-align:center;margin-bottom:10px;}
+.TDivTwo{ /*3rd Div 2nd Part*/width:35%;background-color:#EAE8E8;}
+.subDiv{margin:20px;width:150px;background-color:#EAE8E8;text-align:center;}
+
+button{
+width:100%;padding:0px;margin-top:0px;background-color:#C03;color:#fff;border-color:#C03;border-radius:7px;
+}
+button:hover{background-color:#333;border-color:#333;}
+a{color:white;text-decoration:none;padding:2px;}
+a:hover{color:#C03;text-decoration:none;}
+.heading{font-size:25px;color:#C03;}
+}
+

@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (min-width:700px) {
+.title{color:white;text-align:center;font-size:25px;padding:60px;height:150px;font-style:oblique;}
+.MainDiv{width:100%;height:500px;clear:both;}
+
+.mainDiv1{ /*Main Div*/width:55%;float:left;height:100%;}
+
+.mainDiv2{ /*Main Div*/width:45%;float:left;height:100%;}
+}
+
+
+
+

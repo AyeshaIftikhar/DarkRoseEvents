@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+/* Page title class*/
+@media only screen and (min-width: 700px){
+.pageTitle{
+	color:white;text-align:center;font-size:25px;padding:60px;height:150px;background-image:url("images/background.jpg");font-style:oblique;
+}
+
+/* hr tag*/
+hr{
+	border:2px solid;border-color:#C03;
+}
+
+/*h1 tag*/
+h1{text-align:center;font-size:50px;}
+
+.divOne{font-style:normal;text-align:center;margin-left:100px;margin-right:100px;}
+
+h2{color:#C03;font-size:35px;font-style:normal;}
+
+p{color:gray; font-size:20px;}
+
+.divQuote{margin-right:300px;	}
+}

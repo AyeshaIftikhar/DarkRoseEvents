@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+/* footr tag*/
+footer{
+	display:block;background-color:#333;
+	text-align:justify;
+	color:white;
+	padding:10px;
+	height:350px;
+}
+
+h3{
+	font-size:25px;
+	font-style:normal;
+	color:#C03;
+	
+}
+
+.divisionClass{
+		width:300px;
+		height:300px;
+		float:left;
+		margin-left:60px;
+	}
+
+.divLinks{
+		width:200px;
+		height:300px;
+		float:left;
+		margin-left:60px;
+	}
+
+a{
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	margin-left:5px;
+}
+
+a:hover{
+color:#C03;
+text-decoration:none;
+}
+.isDisabled{
+ color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;}
+
+.divJlinks{
+	width:200px;
+		height:300px;
+		float:left;
+		margin-left:30px;
+
+}
+
+.divCategories{
+		width:200px;
+		height:300px;
+		float:left;
+		margin-left:30px;
+}
+/* hr tag*/
+hr{
+	border:2px solid;border-color:#C03;
+}
+
+.divSLink{
+		width:200px;
+		height:300px;
+		float:left;
+		margin-left:10px;
+		
+}

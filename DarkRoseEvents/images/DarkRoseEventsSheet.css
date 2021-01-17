@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+/* hr tag*/
+
+hr{border:2px solid;border-color:#C03;}
+/*h1 tag*/
+h1{text-align:center;font-size:50px;}
+/* h2 tag*/
+h2{text-align:center;font-style:oblique;color:black;}
+/*h3 tag*/
+h3{text-align:center;font-style:oblique;}
+/*paragraph*/
+p{margin-left:10px;margin-right:5px;}
+
+/* vw for responsive text size */
+/* Page title class*/
+.pageTitle{
+	color:white;text-align:center;font-size:25px;padding:60px;height:150px;background-image:url(" images/dark_events.jpg");font-style:oblique;}
+
+/* vendor*/
+.vendorContact{height:150px;width:300px;background-color:#E7E7E7;margin-left:20px;padding:5px;}
+.vendorContact:hover{background-color:#C03}
+.vendorInformation{text-align:justify;margin-left:20px;padding-top:30px;width:665px;height:570px;}
+
+/*form division next to vendors div*/
+.bookingform{margin-left:20px;padding-top:30px;width:505px;height:570px;}
+form{margin-left:20px;padding-bottom:30px;border:1px groove;border-color:#C03;padding-left:15px;border-radius:5px;margin-left:50px;}
+input{width: 240px;margin-left:80px;padding:5px;margin-top:10px;}
+select{width: 252px;margin-left:80px;padding;10px;height:40px;margin-top:10px;	}
+textarea{width: 250px;margin-left:80px;margin-top:10px;}
+.inputSubmit{margin-left:80px;width:252px;background-color:#C03;color:white;font-size:17px;border:1px thin;border-color:white; border-radius:3px;padding:10px;}
+.inputSubmit:hover{background-color:#333;}
+
+/* services */
+.servicesClass{background-color:white;color:black;font-size:25px;}
+table{width:100%; border:1px thin;}
+td{width:250px;height:50px;font-size:20px;padding:10px;border:1px thin;border-color:#999;text-align:left;}
+
+/*Questioms */
+.questions{font-size:25px;background-color:white;}
+.paragraph{font-size:20px;padding:10px;margin-left:10px;width:610px;}
+
+/*Events title page*/
+.pageTitleEvents{
+	color:white;text-align:center;font-size:25px;padding:60px;height:150px;font-style:oblique;}
+/*image div*/
+
+/*call div*/
+.call{background-color:#CCC;color:#FFF;height:350px;}
+.callParagraph{color:gray; padding:7px;text-align:center;padding-bottom:60px	}
+
+/*forms at events page*/
+.formStyle{margin-left:5px;border:0px groove;} 
+.formInputs{width:450px;padding:10px;margin-top:20px;background-color:white;}
+.formSelect{width:470px;padding:10px;margin-top:20px;background-color:white;}
+.formTextArea{width:450px;padding:10px;margin-top:20px;background-color:white;}
+.formSubmit{margin-left:450px;width:250px;background-color:#C03;color:white;font-size:17px;border:1px thin;border-color:white; border-radius:3px;padding:10px;}
+.formSubmit:hover{background-color:#333;}
+.headingStyle{text-align:left;font-style:normal;color:#C03}
+
+/*gallery
+div.gallery {
+margin: 5px;border: 1px solid #ccc;float: left;width: 180px; margin-left:11px; 
+}
+
+div.gallery:hover {border: 1px solid #777;}
+
+div.gallery img {width: 100%;height: auto;}
+
+div.desc {padding: 15px;text-align: center;}
+
+.hidden{visibility:hidden;}
+.unhidden{visibility:visible;}
+*/
