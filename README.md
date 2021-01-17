@@ -1,5 +1,5 @@
 ## Dark Rose Events v1.0.0
-*Website for Event Manager and planners*
+*Website for Event Managers and planners*
 
 ## Installation Guide
 1. Install `XAMPP` OR `WAMPP`
