@@ -19,7 +19,7 @@
 		<a href="Deals.php">Deals</a><br><br>
          <a href="vendors.php">Vendors</a> <br><br>
          <a href="dark_events.php">Events</a><br><br>
-         <a href="contact_page.php">Contact Us</a><br><br> 
+         <a href="contact.php">Contact Us</a><br><br> 
          <a href="aboutUs.php">About Us</a>
     </div>
     

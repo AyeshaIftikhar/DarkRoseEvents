@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 <link href="stylesheets/contact_sheet.css" rel="stylesheet" type="text/css">
-<?php include 'dropdowns/dropdowncontact.php'?>
+<?php include 'dropdowns/dropdownVendors.php'?>
 <div class="page" style="background-image:url('images/dark_events.jpg');">
     <h1>CONTACT US</h1>
 </div><hr>    

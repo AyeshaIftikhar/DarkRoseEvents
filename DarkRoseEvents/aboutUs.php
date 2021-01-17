@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 <link href="stylesheets/aboutStyleSheet.css" rel="stylesheet" type="text/css">
-<?php include 'dropdowns/dropdown.php'; ?>
+<?php include 'dropdowns/dropdowncontact.php'; ?>
     <div class="pageTitle" style="background-image:url('images/dark_events.jpg');">	<!title of page>
     	<h1>ABOUT US</h1>
     </div> 		<hr>
